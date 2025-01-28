@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Expense Planner</h1>
+      <h1 className='text-6xl'>Expense Planner</h1>
     </>
   )
 }
